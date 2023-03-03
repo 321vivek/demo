@@ -1,0 +1,2 @@
+ Q. What is the difference between git stash apply and git stash pop?
+  git stash pop command helps us to remove or throw away the latest or the topmost stash. The stash pop command will take the content from the stash file and then apply those changes to our current working file. The git stash pop command enables the users to re-apply the commits using the git stash pop command only.
